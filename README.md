@@ -8,7 +8,7 @@ En la carpeta img se encuentran las imagenes.
 ## Desarrollo del proyecto:
 Visual Studio Code
 ## Despliegue (link a la página principal):
-[maquetacionFLEX_Practica01c.html](poner direccion)
+[maquetacionFLEX_Practica01c.html](https://github.com/NEBUR342/proyecto1_MaquetacionFlex/blob/main/mflexP01c_AlvarezFernandezRuben/maquetacionFLEX_Practica01c.html)
 ## Construido con:
 HTML y CSS
 ## Autores:
